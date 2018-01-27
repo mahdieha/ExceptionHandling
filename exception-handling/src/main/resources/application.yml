@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "TechLabEDU"
+  aop.auto: true # Add @EnableAspectJAutoProxy.
+  aop.proxy-target-class: true # Whether subclass-based (CGLIB) proxies are to be created (true) as opposed to standard Java interface-based proxies (false).
+
+#server:
+#    port: 9000
+
+
